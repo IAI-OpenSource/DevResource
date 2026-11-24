@@ -1,0 +1,24 @@
+{
+  "name": "devresources",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A collaborative directory of tech resources by IAI-Togo students.",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate && vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate-resources.js",
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "dependencies": {
+    "lucide-react": "^1.79.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
+    "vite": "^8.3.8"
+  }
+}
