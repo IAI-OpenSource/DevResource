@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-5);
+}
+
+.title {
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.description {
+  margin-top: var(--space-1);
+  color: var(--color-text-secondary);
+}

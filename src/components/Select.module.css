@@ -1,0 +1,38 @@
+.field {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.label {
+  color: var(--color-text-secondary);
+  font-size: 0.875rem;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.select {
+  height: 38px;
+  padding: 0 34px 0 12px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-sm);
+  font-size: 0.875rem;
+  appearance: none;
+  cursor: pointer;
+}
+
+.select:focus-visible {
+  outline-offset: 1px;
+}
+
+.chevron {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: var(--color-text-secondary);
+  pointer-events: none;
+}
