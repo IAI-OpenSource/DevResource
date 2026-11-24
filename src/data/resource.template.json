@@ -1,0 +1,11 @@
+{
+  "id": "your-resource-name",
+  "name": "Your Resource Name",
+  "description": "One or two sentences explaining what this resource is and why it is useful.",
+  "categories": ["Learning Resources"],
+  "track": "GLSI",
+  "addedBy": "Your Name",
+  "url": "https://example.com",
+  "imageUrl": "https://cdn.simpleicons.org/github",
+  "addedAt": "2026-11-24"
+}
