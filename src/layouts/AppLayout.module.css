@@ -1,0 +1,31 @@
+.shell {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  animation: page-in 320ms var(--ease) both;
+}
+
+.main:focus {
+  outline: none;
+}
+
+.skip {
+  position: absolute;
+  top: -48px;
+  left: var(--space-4);
+  z-index: 20;
+  padding: 8px 14px;
+  border-radius: var(--radius-pill);
+  background: var(--color-text);
+  color: #fff;
+  font-size: 0.875rem;
+  transition: top var(--duration) var(--ease);
+}
+
+.skip:focus {
+  top: var(--space-2);
+}
