@@ -1,0 +1,11 @@
+{
+  "id": "html",
+  "name": "Hyper Text Markup Language",
+  "description": "Un langage de balisage . Je n'ai rien d'autre à dire comme description ",
+  "categories": ["Frontend", "UI/UX Design", "Development Tools"],
+  "track": "GLSI",
+  "addedBy": "PIP_Install",
+  "url": "https://github.com/IsaacDMD",
+  "imageUrl": "https://cdn.simpleicons.org/html",
+  "addedAt": "2026-11-25"
+}
