@@ -1,0 +1,11 @@
+{
+  "id": "python",
+  "name": "Python",
+  "description": "Python est un langage de programmation interprété et de haut niveau, orienté objet et à typage dynamique. Il est utilisé pour le développement web, l'analyse de données, l'intelligence artificielle, l'automatisation et bien plus encore.",
+  "categories": ["Backend","Programming Languages", "Desktop Development", "AI & Machine Learning", "Data Science"],
+  "track": "GLSI",
+  "addedBy": "RENEL",
+  "url": "https://docs.python.org/",
+  "imageUrl": "https://cdn.simpleicons.org/github",
+  "addedAt": "2026-11-25"
+}
