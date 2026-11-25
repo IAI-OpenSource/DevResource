@@ -1,0 +1,11 @@
+{
+  "id": "java",
+  "name": "Java",
+  "description": "java est un langage de programmation pour l'orienté objet.",
+  "categories": ["Backend,"],
+  "track": "GLSI",
+  "addedBy": "Spooky",
+  "url": "https://docs.oracle.com/en/java/",
+  "imageUrl": "https://cdn.simpleicons.org/java",
+  "addedAt": "2026-11-25"
+}
