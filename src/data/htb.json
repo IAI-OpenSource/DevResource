@@ -1,0 +1,11 @@
+{
+  "id": "htb",
+  "name": "Hack Yhe Box",
+  "description": "une plateforme pour la cybersécurité",
+  "categories": ["Cybersecurity"],
+  "track": "ASR",
+  "addedBy": "robot",
+  "url": "https://hackthebox.com/",
+  "imageUrl": "https://cdn.simpleicons.org/github",
+  "addedAt": "2026-11-24"
+}
